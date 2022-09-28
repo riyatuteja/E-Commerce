@@ -1,0 +1,24 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+.footer {
+  position: relative;
+  width: 100%;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+.signinFooter {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
